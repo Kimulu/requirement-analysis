@@ -68,7 +68,7 @@ Use Case Diagrams visually represent the interactions between users (actors) and
 - Acts as a reference for developers and testers.
 
 **Example Diagram:**  
-![Use Case Diagram](alx-booking-uc.png)
+![diagram](https://github.com/user-attachments/assets/1f071e22-8f47-4272-8cff-659c6b8e880a)
 
 ---
 
